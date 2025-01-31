@@ -22,7 +22,7 @@ A/B Testing Frameworks (t-test, chi-square, z-test, bootstrapping)
 📂 How to Use
 
 Clone the repository:
-git clone https://github.com/yourusername/ab-testing-projects.git
+git clone https://github.com/19catalina/A-B-Testing-Projects
 Install dependencies:
 pip install -r requirements.txt  
 Run the notebooks or scripts to analyze test results.
